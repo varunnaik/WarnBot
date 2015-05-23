@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+
+  "name": "WarnBot",
+  "description": "Makes you aware of the time you waste browsing",
+  "version": "1.0",
+
+  "permissions": [
+    "tabs",
+    "storage",
+    "<all_urls>"
+  ]
+}
